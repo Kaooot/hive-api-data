@@ -1,6 +1,6 @@
 # hive-api-data
 
-This repository provides markdown files containing various information provided by the
+This repository contains Markdown files with various information provided by the
 official [PlayHive API](https://api.playhive.com/api/documentation)
 
 ### Table of contents
